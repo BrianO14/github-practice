@@ -1,7 +1,0 @@
-This is chapter 1.
-
-this is the end.
-
-This is the beginning.
-
-This is chapter 2.
